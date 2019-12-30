@@ -1,5 +1,5 @@
 {
-    "name": "@yicaifenchen8/testhotkey",
+    "name": "testhotkey",
     "version": "0.1.0",
     "private": false,
     "scripts": {
@@ -37,12 +37,5 @@
     "browserslist": [
         "> 1%",
         "last 2 versions"
-    ],
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/yicaifenchen8/package.git"
-    }
+    ]
 }
